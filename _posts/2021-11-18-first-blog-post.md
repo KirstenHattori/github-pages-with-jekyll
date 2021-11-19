@@ -1,3 +1,18 @@
+---
+title: "git and github intro notes"
+date: 2021-11-18
+category: | 
+  coding notes
+  how to use github
+tags: | 
+  git
+  github
+  markdown
+  jekyll
+  yml
+---
+
+
 Markdown is the language of choice for the Git realm. 
 =====================================================
 
