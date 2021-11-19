@@ -1,15 +1,15 @@
 ---
 title: "git and github intro notes"
 date: 2021-11-18
-category: | 
-  coding notes
-  how to use github
-tags: | 
-  git
-  github
-  markdown
-  jekyll
-  yml
+# category: | 
+#   coding notes
+#   how to use github
+# tags: | 
+#   git
+#   github
+#   markdown
+#   jekyll
+#   yml
 ---
 
 
