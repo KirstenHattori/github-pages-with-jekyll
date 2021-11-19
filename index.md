@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to my first GitHub Page"
 ---
 
-I'm glad you are here. I plan to talk about ...
+this is where i will be going through the github-learning-lab pages lesson
