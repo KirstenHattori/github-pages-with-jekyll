@@ -13,3 +13,18 @@ it is a little more straightforward and natural than <abbr title="HyperText Mark
 ---
 
 I should really consider making a post for the steps to branch and commmit and make pull reuests {that i learned in the introduction to GitHub course i finished right before starting this one}
+
+1. create a branch
+  * select main in the bottom left of the vs code window
+2. so to Source Control view
+  * located in the left tool column of vs code
+  * select Push from the ... menu
+  * confirm the dialog box prompt to publish the branch
+3. commit a file
+  * in this local branch, make changes or additions to the codebase
+4. stage the new file
+  * back in source control view, click the + button next to the file
+5. commit the change
+  * type a commit messag in the text field and press ctrl+enter
+6. push it
+  * select Push from the ... menu again
