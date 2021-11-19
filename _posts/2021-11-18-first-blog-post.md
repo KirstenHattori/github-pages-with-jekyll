@@ -43,3 +43,6 @@ I should really consider making a post for the steps to branch and commmit and m
   * type a commit messag in the text field and press ctrl+enter
 6. push it
   * select Push from the ... menu again
+
+7. merge files to repo
+  * back in github, approve pull request and merge branch also, delete the branch when finished with it
